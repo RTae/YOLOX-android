@@ -1,0 +1,12 @@
+.DS_Store
+.pip
+.config
+.cache
+__pycache__
+android/.gradle
+android/.idea
+android/app/.cxx
+android/app/build
+*.properties
+yolox.bin
+yolox.param
